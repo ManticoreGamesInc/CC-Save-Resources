@@ -19,9 +19,9 @@ The Save Resources component makes saving resources easier for creators. A data 
 
 ## How to use
 
-	Make sure to enable Player Storage on the Game Settings object in the Hierarchy.
+Make sure to enable Player Storage on the Game Settings object in the Hierarchy.
 
-	Add the Save Resources component to your hierarchy and modify the 2 custom properties on the root of the template.
+Add the Save Resources component to your hierarchy and modify the 2 custom properties on the root of the template.
 
 - **Resources**
 
