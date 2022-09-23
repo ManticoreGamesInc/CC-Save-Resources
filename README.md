@@ -25,7 +25,8 @@ Make sure to enable Player Storage on the Game Settings object in the Hierarchy.
 
 - **Resources**
 
-	This custom property points to a data table that needs to contain the resources you want to save in player storage. This allows you to be selective on which resources are saved.
+	This custom property points to a data table that needs to contain the resources you want to save in player storage.
+	This allows you to be selective on which resources are saved.
 
 - **SaveDataKey**
 
