@@ -2,8 +2,8 @@
 
 # Save Resources
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Save-Resources/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Save-Resources/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Save-Resources?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Save-Resources/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Save-Resources/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Save-Resources?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
